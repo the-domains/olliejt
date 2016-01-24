@@ -2,6 +2,7 @@ name: OllieJT
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.47662
+title: My test website
 cta:
   domain: null
   bucket: null
