@@ -5,19 +5,21 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'If you fucking give up, you will achieve nothing.'
-datePublished: '2016-08-14T03:10:36.357Z'
-dateModified: '2016-08-14T03:09:37.661Z'
+datePublished: '2016-08-14T03:13:22.565Z'
+dateModified: '2016-08-14T03:11:51.795Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-08-14-if-you-fucking-give-up-you-will-achieve-nothing.md
 authors: []
 publisher: {}
-starred: true
+starred: false
 url: if-you-fucking-give-up-you-will-achieve-nothing/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/716f9220-ae2c-45ec-b9be-167750e2a90f.jpg)
+
 If you fucking give up, you will achieve nothing.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2d8ebf5-f87e-44fb-9626-e545473c971b.jpg)
 
