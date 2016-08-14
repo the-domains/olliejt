@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[OllieJT]]></title>
-        <description><![CDATA[OllieJT]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[My test website]]></title>
+        <description><![CDATA[My test website]]></description>
+        <link>https://thegrid.ai/olliejt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 17:36:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Aug 2016 03:03:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/olliejt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Widows and orphans are terrible fucking tragedies, both in real life and definitely in typography. When you sit down to work, external critics aren’t the enemy. It’s you who you must to fight against to do great fucking work. You must overcome yourself. You need to sit down and sketch more fucking ideas because stalking your ex on facebook isn’t going to get you anywhere. Form follows fucking function. </p>]]></description>
+            <link>https://thegrid.ai/olliejt/widows-and-orphans-are-terrible-fucking-tragedies-both-in-r/index.html</link>
+            <guid isPermaLink="false">b24e01d2-50fe-4ffe-a85f-8135461d6619</guid>
+            <pubDate>Sun, 14 Aug 2016 03:03:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OpTic Gaming Website]]></title>
-            <description><![CDATA[<article><h1>OpTic Gaming Website</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1cc219029019fbe4c85841f996f68f6b82b0a37b.jpg"></article>]]></description>
-            <link>undefined36271dcc-001b-4b90-b78b-ec96fb2c7519/index.html</link>
+            <description><![CDATA[<article><h1>OpTic Gaming Website</h1><p>To my latest project, I set myself no goals here. I just saw a website I wasn’t happy with and decided to re design it. I hope you appreciate it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdf2447fdd52bc7c3b3c8468083375b60eea0b80.jpg"></article>]]></description>
+            <link>https://thegrid.ai/olliejt/36271dcc-001b-4b90-b78b-ec96fb2c7519/index.html</link>
             <guid isPermaLink="false">36271dcc-001b-4b90-b78b-ec96fb2c7519</guid>
             <pubDate>Sun, 24 Jan 2016 17:36:10 GMT</pubDate>
         </item>
