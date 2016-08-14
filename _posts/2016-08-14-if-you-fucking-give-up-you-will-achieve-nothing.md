@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'If you fucking give up, you will achieve nothing.'
-datePublished: '2016-08-14T03:13:22.565Z'
-dateModified: '2016-08-14T03:11:51.795Z'
+datePublished: '2016-08-14T03:16:56.551Z'
+dateModified: '2016-08-14T03:14:02.223Z'
 title: ''
 author: []
 via: {}
