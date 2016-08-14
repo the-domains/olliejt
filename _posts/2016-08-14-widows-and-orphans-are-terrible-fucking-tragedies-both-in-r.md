@@ -11,8 +11,8 @@ description: >-
   You must overcome yourself. You need to sit down and sketch more fucking ideas
   because stalking your ex on facebook isn’t going to get you anywhere. Form
   follows fucking function. 
-datePublished: '2016-08-14T03:13:40.805Z'
-dateModified: '2016-08-14T03:03:21.678Z'
+datePublished: '2016-08-14T03:13:58.700Z'
+dateModified: '2016-08-14T03:13:49.725Z'
 title: ''
 author: []
 via: {}
