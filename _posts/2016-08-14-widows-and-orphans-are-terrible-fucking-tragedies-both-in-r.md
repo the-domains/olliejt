@@ -11,16 +11,16 @@ description: >-
   You must overcome yourself. You need to sit down and sketch more fucking ideas
   because stalking your ex on facebook isn’t going to get you anywhere. Form
   follows fucking function. 
-datePublished: '2016-08-14T03:03:14.386Z'
-dateModified: '2016-08-14T03:02:46.471Z'
+datePublished: '2016-08-14T03:13:40.805Z'
+dateModified: '2016-08-14T03:03:21.678Z'
 title: ''
 author: []
 via: {}
+sourcePath: >-
+  _posts/2016-08-14-widows-and-orphans-are-terrible-fucking-tragedies-both-in-r.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-14-widows-and-orphans-are-terrible-fucking-tragedies-both-in-r.md
 url: widows-and-orphans-are-terrible-fucking-tragedies-both-in-r/index.html
 _type: Article
 
