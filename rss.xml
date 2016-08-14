@@ -4,7 +4,7 @@
         <description><![CDATA[My test website]]></description>
         <link>https://thegrid.ai/olliejt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 03:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2016 03:03:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/olliejt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/olliejt/widows-and-orphans-are-terrible-fucking-tragedies-both-in-r/index.html</link>
             <guid isPermaLink="false">b24e01d2-50fe-4ffe-a85f-8135461d6619</guid>
             <pubDate>Sun, 14 Aug 2016 03:03:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpTic Gaming Website]]></title>
-            <description><![CDATA[<article><h1>OpTic Gaming Website</h1><p>To my latest project, I set myself no goals here. I just saw a website I wasn’t happy with and decided to re design it. I hope you appreciate it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdf2447fdd52bc7c3b3c8468083375b60eea0b80.jpg"></article>]]></description>
-            <link>https://thegrid.ai/olliejt/36271dcc-001b-4b90-b78b-ec96fb2c7519/index.html</link>
-            <guid isPermaLink="false">36271dcc-001b-4b90-b78b-ec96fb2c7519</guid>
-            <pubDate>Sun, 24 Jan 2016 17:36:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
