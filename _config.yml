@@ -1,7 +1,7 @@
 name: OllieJT
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.47662
+typography_spectrum: 1
 title: My test website
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#31678c'
-    - '#ee383a'
-    - '#2e4859'
     - '#000000'
-    - '#005555'
+    - '#d4e7d4'
+    - '#b1c9af'
+    - '#2e3813'
+    - '#7b8263'
   brandStrength: 0
   lightness: 0.1875
-  saturation: 0.5
+  saturation: 0.25
   rhythmicContrast: 0.5
 purpose: []
